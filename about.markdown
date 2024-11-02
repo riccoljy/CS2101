@@ -14,9 +14,7 @@ permalink: /about/
   <link rel="stylesheet" href="/assets/main.css">
 </head>
 <body>
-  <header class="site-header" role="banner">
-    <div class="wrapper"><a class="site-title" rel="author" href="/">From Code to Conversation</a></div>
-  </header>
+
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
